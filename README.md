@@ -10,6 +10,6 @@
 
 ### household-platform
 
-這個案例研究將整理一個全端家庭管理系統的設計與實作脈絡，涵蓋需求拆解、系統邊界、驗證流程與部署思路；目前先建立文件骨架，後續內容請見 [case-studies/household-platform/README.md](case-studies/household-platform/README.md)。
+這個案例研究整理一個全端家庭管理系統的設計與實作脈絡，涵蓋需求拆解、系統邊界、驗證流程與部署思路；完整內容（架構圖、關鍵挑戰與解法、精選程式碼片段）請見 [case-studies/household-platform/README.md](case-studies/household-platform/README.md)。
 
 更多案例陸續整理中。
