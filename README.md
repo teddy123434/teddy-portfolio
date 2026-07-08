@@ -6,7 +6,7 @@
 
 ### 立法院逐字稿發言統計系統
 
-這個案例整理並分析立法院逐字稿中的發言資料，作為獨立公開專案維護；Hub repo 在此提供簡要入口與外部連結，原始程式碼與專案內容請見 [260127_CCW](https://github.com/teddy123434/260127_CCW)。
+這個案例整理並分析立法院逐字稿中的發言資料，作為獨立公開專案維護；Hub repo 在此提供簡要入口與外部連結，原始程式碼與專案內容請見 [legislative-transcript-analyzer](https://github.com/teddy123434/legislative-transcript-analyzer)。
 
 ### household-platform
 
