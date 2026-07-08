@@ -12,6 +12,4 @@
 
 這個案例研究將整理一個全端家庭管理系統的設計與實作脈絡，涵蓋需求拆解、系統邊界、驗證流程與部署思路；目前先建立文件骨架，後續內容請見 [case-studies/household-platform/README.md](case-studies/household-platform/README.md)。
 
-### 後續案例
-
-第三個案例保留給後續補充，待確認主題與材料後再補上完整說明與連結。
+更多案例陸續整理中。
